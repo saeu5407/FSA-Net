@@ -1,10 +1,10 @@
 # FSA-Net
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaeu5407&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 **원본 FSA-Net Link : [FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image](https://github.com/shamangary/FSA-Net)**
 
-**현재 진행중인 프로젝트에서 FSA-Net을 사용하고 있습니다. 이왕 FSA-Net에 대해 알아본김에 `run_demo_FSANET_ssd.py`에 대해 주석처리해 놓은 파일을 공개해두고자 생성한 REPO입니다.**
+**현재 진행중인 프로젝트에서 FSA-Net을 사용하고 있습니다. 이왕 FSA-Net에 대해 알아본김에 `demo/run_demo_FSANET_ssd.py`에 대해 주석을 달아놓은 파일을 공개해두고자 생성한 REPO입니다.**
 
 **시간이 될 때 블로그에 논문 리뷰글을 올리겠습니다. [BLOG | dyddl1993](https://dyddl1993.tistory.com)**
 
