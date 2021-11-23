@@ -6,7 +6,7 @@
 
 **현재 진행중인 프로젝트에서 FSA-Net을 사용하고 있습니다. 이왕 FSA-Net에 대해 알아본김에 `demo/run_demo_FSANET_ssd.py`에 대해 주석을 달아놓은 파일을 공개해두고자 생성한 REPO입니다.**
 
-**시간이 될 때 블로그에 논문 리뷰글을 올리겠습니다. [BLOG | dyddl1993](https://dyddl1993.tistory.com)**
+**<s>시간이 될 때 블로그에 논문 리뷰글을 올리겠습니다.</s> `완료` [[Head Pose] FSA-Net | 새우위키](https://dyddl1993.tistory.com/28)**
 
 ---
 
